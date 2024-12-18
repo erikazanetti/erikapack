@@ -1,0 +1,16 @@
+Package: erikapack
+Type: Package
+Title: How to make a package
+Version: 0.1.0
+Author: Erika Zanetti
+Maintainer: The package maintainer <erikazanetti.25@gmail.com>
+Description: This package is using simple functions for a first development example.
+Encoding: UTF-8
+Language: en-GB
+License: GPL(>=2)
+Depends: R (>= 4.0.0)
+Imports: devtools,dichromat,fields,ggplot2,stats,terra,viridis
+Suggests: knitr
+Config/testthat/edition: 1
+NeedsCompilation: no
+Packaged: 2024-12-18 15:10:00 UTC; erikazanetti
